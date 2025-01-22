@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    height: 100vh;
+    background-color: #F8FAFC;
+  }
+
+  header
+  {
+    text-align: center;
+    padding-top: 50px;
+    color: #030616;
+  }
+
+  header .head
+  {
+    font-family: "Inter", serif;
+    font-weight: bold;
+     font-style: normal;
+    font-size: 2.25rem;
+    padding-bottom: 20px;
+    
+  }
+
+  header .head_dis
+  {
+    font-family: "Inter", serif;
+    font-size: 1.5;
+    margin-block-end: 150px;
+  }
+  
+.one, .two
+{
+    text-align: left;
+    padding-left: 350px;
+
+    font-family: "Inter", serif;
+    font-size: 1.5;
+
+    color: #030616;
+    
+}
+
+.one h3 , .two h3{
+margin-block-end: 40px;
+font-size: 24px;
+}
+
+.one p , .two p{
+margin-block-end: 10px;
+font-size: 16px;
+}
+
+.lst 
+{
+padding-left: 20px;
+}
+.lst li
+{
+    margin-bottom: 10px;
+}
+ 
+a
+{
+    text-decoration: none;
+    color: #4E80EE;
+}
+.author-info {
+    font-size: 14px;
+    text-align: initial;
+    padding-left: 150px;
+    margin-top: 16px;
+    color: rgb(55, 65, 81);
+  }
+
+  .author-info a {
+    text-decoration: none;
+  }
